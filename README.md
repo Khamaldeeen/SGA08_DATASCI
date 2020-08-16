@@ -1,4 +1,4 @@
 # SGA08_DATASCI
-This is my first readme file created through VS Code
-Hello world. 
-Testing conflict change.
+Welcome to my class project repository. 
+
+This repository contains the tasks, challenges and projects completed by me on the instruction of Stutern.
